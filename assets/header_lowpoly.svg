@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" fill="none">
   <defs>
     <style>
-      .name-title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', sans-serif; font-size: 32px; font-weight: 800; fill: #E2D0B6; letter-spacing: 0.08em; }
-      .sub-title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif; font-size: 14px; font-weight: 500; fill: #F08D00; letter-spacing: 0.05em; }
-      .meta { font-family: 'SF Mono', monospace; font-size: 12px; fill: #E2D0B6; opacity: 0.85; }
+      @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&amp;display=swap');
+      .name-title { font-family: 'Apple Garamond', 'EB Garamond', 'ITC Garamond', Garamond, serif; font-size: 38px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.04em; }
+      .sub-title { font-family: 'Apple Garamond', 'EB Garamond', 'ITC Garamond', Garamond, serif; font-size: 16px; font-weight: 500; font-style: italic; fill: #F08D00; letter-spacing: 0.03em; }
+      .meta { font-family: 'Apple Garamond', 'EB Garamond', 'ITC Garamond', Garamond, serif; font-size: 14px; fill: #E2D0B6; opacity: 0.9; }
     </style>
   </defs>
 
-  <!-- Low Poly Faceted Geometric Mesh Background -->
+  <!-- Low Poly Faceted Geometric Mesh Background (The Retro Class Palette) -->
   <g id="low-poly-mesh">
     <!-- Row 1 Triangles -->
     <polygon points="0,0 80,0 40,50" fill="#10304A"/>
@@ -74,14 +75,14 @@
     <polygon points="770,115 800,180 770,180" fill="#EA8500"/>
   </g>
 
-  <!-- Overlay Shading for Crisp Text Contrast -->
-  <rect width="800" height="180" fill="rgba(16, 48, 74, 0.45)"/>
-  <rect width="800" height="180" stroke="#E2D0B6" stroke-width="1.5" stroke-opacity="0.25" rx="10"/>
+  <!-- Shading Overlay -->
+  <rect width="800" height="180" fill="rgba(16, 48, 74, 0.5)"/>
+  <rect width="800" height="180" stroke="#E2D0B6" stroke-width="1.5" stroke-opacity="0.3" rx="10"/>
 
-  <!-- Centered Typography & Badges -->
-  <g transform="translate(400, 55)" text-anchor="middle">
-    <text y="0" class="name-title">JUSTIN M. PARRA</text>
-    <text y="32" class="sub-title">ELECTRICAL &amp; COMPUTER ENGINEERING • RUTGERS '27</text>
-    <text y="62" class="meta">Lead Controls &amp; Firmware Engineer @ Autonomous Micromouse</text>
+  <!-- Centered Apple Garamond Typography -->
+  <g transform="translate(400, 52)" text-anchor="middle">
+    <text y="0" class="name-title">Justin M. Parra</text>
+    <text y="34" class="sub-title">Electrical &amp; Computer Engineering • Rutgers University '27</text>
+    <text y="64" class="meta">Lead Controls &amp; Firmware Engineer @ Autonomous Micromouse</text>
   </g>
 </svg>
