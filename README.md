@@ -9,7 +9,7 @@
 
 <!-- Large White Apple Garamond Animated Subtitles -->
 <a href="https://github.com/justintime1888">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=600&size=24&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Lead+Controls+%26+Firmware+Engineer+%40+Micromouse;Embedded+Systems+|+C%2B%2B17+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim;Digital+Logic+|+FPGA+|+Microcontroller+Architectures" alt="Roles Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=700&size=30&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&lines=Lead+Controls+%26+Firmware+Engineer+%40+Micromouse;Embedded+Systems+|+C%2B%2B17+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim;Digital+Logic+|+FPGA+|+Microcontroller+Architectures" alt="Roles Typing Banner" />
 </a>
 
 <br/><br/>
