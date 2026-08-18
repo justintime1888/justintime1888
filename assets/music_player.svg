@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" fill="none">
   <defs>
     <style>
-      .title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif; font-size: 15px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.02em; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif; font-size: 16px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.02em; }
       .artist { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif; font-size: 13px; font-weight: 500; fill: #F08D00; }
-      .time { font-family: 'SF Mono', monospace; font-size: 11px; fill: #E2D0B6; opacity: 0.8; }
-      .badge { font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.05em; }
+      .time { font-family: 'SF Mono', monospace; font-size: 11px; fill: #E2D0B6; opacity: 0.85; }
+      .badge { font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.06em; }
       
       @keyframes eq1 { 0%, 100% { height: 6px; } 50% { height: 24px; } }
       @keyframes eq2 { 0%, 100% { height: 22px; } 50% { height: 8px; } }
@@ -20,63 +20,61 @@
     </style>
   </defs>
 
-  <!-- Low Poly Geometric Facets in Retro Class Colors -->
-  <g id="player-poly-bg">
+  <!-- Strict Retro Class Low-Poly Background -->
+  <g id="retro-mesh">
     <polygon points="0,0 120,0 60,60" fill="#10304A"/>
-    <polygon points="120,0 240,0 180,50" fill="#184369"/>
-    <polygon points="240,0 360,0 300,55" fill="#246869"/>
-    <polygon points="360,0 480,0 420,45" fill="#993131"/>
-    <polygon points="480,0 600,0 540,55" fill="#C65000"/>
+    <polygon points="120,0 240,0 180,50" fill="#246869"/>
+    <polygon points="240,0 360,0 300,55" fill="#993131"/>
+    <polygon points="360,0 480,0 420,45" fill="#C65000"/>
+    <polygon points="480,0 600,0 540,55" fill="#F08D00"/>
 
-    <polygon points="0,0 60,60 0,140" fill="#0D263B"/>
-    <polygon points="60,60 120,0 180,50" fill="#143B5C"/>
-    <polygon points="60,60 180,50 120,140" fill="#1B4D78"/>
-    <polygon points="180,50 240,0 300,55" fill="#205E5F"/>
-    <polygon points="180,50 300,55 240,140" fill="#246869"/>
-    <polygon points="300,55 360,0 420,45" fill="#802929"/>
-    <polygon points="300,55 420,45 360,140" fill="#993131"/>
-    <polygon points="420,45 480,0 540,55" fill="#B34700"/>
-    <polygon points="420,45 540,55 480,140" fill="#C65000"/>
-    <polygon points="540,55 600,0 600,140" fill="#D95900"/>
+    <polygon points="0,0 60,60 0,140" fill="#0c2033"/>
+    <polygon points="60,60 120,0 180,50" fill="#184369"/>
+    <polygon points="60,60 180,50 120,140" fill="#10304A"/>
+    <polygon points="180,50 240,0 300,55" fill="#246869"/>
+    <polygon points="180,50 300,55 240,140" fill="#1d5455"/>
+    <polygon points="300,55 360,0 420,45" fill="#993131"/>
+    <polygon points="300,55 420,45 360,140" fill="#802929"/>
+    <polygon points="420,45 480,0 540,55" fill="#C65000"/>
+    <polygon points="420,45 540,55 480,140" fill="#ab4500"/>
+    <polygon points="540,55 600,0 600,140" fill="#F08D00"/>
 
     <polygon points="0,140 60,60 120,140" fill="#10304A"/>
-    <polygon points="120,140 180,50 240,140" fill="#184369"/>
-    <polygon points="240,140 300,55 360,140" fill="#246869"/>
-    <polygon points="360,140 420,45 480,140" fill="#993131"/>
+    <polygon points="120,140 180,50 240,140" fill="#246869"/>
+    <polygon points="240,140 300,55 360,140" fill="#993131"/>
+    <polygon points="360,140 420,45 480,140" fill="#C65000"/>
     <polygon points="480,140 540,55 600,140" fill="#F08D00"/>
   </g>
 
-  <!-- Dark Shading Overlay for Contrast -->
-  <rect width="600" height="140" rx="12" fill="rgba(11, 25, 38, 0.72)"/>
-  <rect width="600" height="140" rx="12" stroke="#E2D0B6" stroke-width="1.2" stroke-opacity="0.3"/>
+  <!-- Shading Overlay with Mosaic Base and Smooth Cream Border -->
+  <rect width="600" height="140" rx="12" fill="#10304A" fill-opacity="0.8"/>
+  <rect width="600" height="140" rx="12" stroke="#E2D0B6" stroke-width="1.2" stroke-opacity="0.4"/>
 
-  <!-- Album Artwork / Cassette Box -->
-  <rect x="20" y="20" width="100" height="100" rx="8" fill="#10304A" stroke="#246869" stroke-width="1"/>
-  
-  <!-- Vinyl / Tape Icon in Art -->
-  <circle cx="70" cy="70" r="32" fill="#0D263B" stroke="#F08D00" stroke-width="2"/>
-  <circle cx="70" cy="70" r="20" fill="#10304A" stroke="rgba(226, 208, 182, 0.2)" stroke-width="1"/>
+  <!-- Album Artwork / Vinyl Box -->
+  <rect x="20" y="20" width="100" height="100" rx="8" fill="#0B1926" stroke="#246869" stroke-width="1.2"/>
+  <circle cx="70" cy="70" r="32" fill="#10304A" stroke="#F08D00" stroke-width="2"/>
+  <circle cx="70" cy="70" r="20" fill="#0B1926" stroke="#E2D0B6" stroke-width="1" stroke-opacity="0.3"/>
   <circle cx="70" cy="70" r="8" fill="#E2D0B6"/>
 
-  <!-- Live Status Badge -->
-  <rect x="140" y="22" width="128" height="20" rx="4" fill="#993131" stroke="#C65000" stroke-width="1"/>
+  <!-- Badge in Stiletto (#993131) and Smooth Cream (#E2D0B6) -->
+  <rect x="140" y="22" width="140" height="20" rx="4" fill="#993131" stroke="#C65000" stroke-width="1"/>
   <circle cx="152" cy="32" r="3" fill="#E2D0B6"/>
-  <text x="162" y="36" class="badge">TOP SPOTIFY TRACK</text>
+  <text x="162" y="36" class="badge">TODAY'S TOP TRACK</text>
 
   <!-- Track Details -->
   <text x="140" y="62" class="title">Malcolm In The Middle</text>
-  <text x="140" y="80" class="artist">Malcolm Todd — Heavy Rotation</text>
+  <text x="140" y="80" class="artist">Malcolm Todd — Most Streamed Today</text>
 
-  <!-- Progress Bar -->
-  <rect x="140" y="98" width="430" height="4" rx="2" fill="rgba(226, 208, 182, 0.15)"/>
+  <!-- Progress Bar (Burnt Orange, Makoy Fruit & Smooth Cream) -->
+  <rect x="140" y="98" width="430" height="4" rx="2" fill="#10304A" stroke="#246869" stroke-width="0.5"/>
   <rect x="140" y="98" width="310" height="4" rx="2" fill="#F08D00"/>
   <circle cx="450" cy="100" r="4" fill="#E2D0B6"/>
 
-  <!-- Time Labels -->
+  <!-- Timestamps in Smooth Cream -->
   <text x="140" y="118" class="time">02:14</text>
   <text x="540" y="118" class="time">02:58</text>
 
-  <!-- Animated Equalizer Bars in Retro Colors -->
+  <!-- Animated Equalizer Bars strictly in Retro Class Colors -->
   <g transform="translate(530, 48)">
     <rect class="bar1" x="0" y="0" width="4" height="18" rx="1.5" fill="#E2D0B6" transform="scale(1, -1)"/>
     <rect class="bar2" x="7" y="0" width="4" height="22" rx="1.5" fill="#F08D00" transform="scale(1, -1)"/>
