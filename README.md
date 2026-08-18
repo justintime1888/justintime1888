@@ -1,13 +1,20 @@
 <div align="center">
 
-# Justin Parra
-### Electrical and Computer Engineering | Rutgers University (May 2027)
-
+<!-- Animated Name Banner -->
 <a href="https://github.com/justintime1888">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Electrical+and+Computer+Engineering;Lead+Controls+and+Firmware+Engineer;Embedded+Systems+|+C%2B%2B17+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=36&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Justin+M.+Parra;Justin+M.+Parra" alt="Justin M. Parra" />
 </a>
 
-<br/>
+<p align="center">
+  <b>Electrical and Computer Engineering</b> • <b>Rutgers University</b> <i>(Class of May 2027)</i>
+</p>
+
+<!-- Subtitle Role Animation -->
+<a href="https://github.com/justintime1888">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Lead+Controls+%26+Firmware+Engineer+%40+Micromouse;Embedded+Systems+|+C%2B%2B17+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim;Digital+Logic+|+FPGA+|+Microcontroller+Architectures" alt="Roles Typing Banner" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/justin-parra-/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,6 +24,18 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+</div>
+
+---
+
+### Contribution Timeline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
@@ -67,7 +86,7 @@ Electrical and Computer Engineering student at **Rutgers University – New Brun
   <img src="https://img.shields.io/badge/Oscilloscopes_%26_Logic_Analyzers-6366F1?style=flat-square&logoColor=white" height="28"/>
 </p>
 
-#### Controls, Algorithms & Simulation
+#### Controls & Algorithms
 <p>
   <img src="https://img.shields.io/badge/Cascade_PID_Control-FF6B6B?style=flat-square&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Modified_Flood_Fill-4D96FF?style=flat-square&logoColor=white" height="28"/>
@@ -79,7 +98,7 @@ Electrical and Computer Engineering student at **Rutgers University – New Brun
 #### Development Tools & Linux
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/WSL2_%2F_WSLg-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/GDB_Debugger-333333?style=flat-square&logo=gnu&logoColor=white" height="28"/>
@@ -90,13 +109,10 @@ Electrical and Computer Engineering student at **Rutgers University – New Brun
 
 ---
 
-### Engineering Activity & Telemetry
+### Activity & Contribution Telemetry
 
 <div align="center">
-
-<!-- Real-time GitHub Activity Line Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justintime1888&theme=tokyo-night&area=true&hide_border=true&custom_title=Activity%20Telemetry%20Graph" width="95%" alt="Activity Telemetry Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justintime1888&theme=tokyo-night&area=true&hide_border=true&custom_title=Activity%20Telemetry%20Graph" width="95%" alt="Activity Telemetry Graph" />
 </div>
 
 ---
@@ -137,18 +153,6 @@ Electrical and Computer Engineering student at **Rutgers University – New Brun
     </td>
   </tr>
 </table>
-
----
-
-### Contribution Timeline
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
 
 ---
 
