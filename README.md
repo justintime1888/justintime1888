@@ -24,7 +24,7 @@
 ### Music & Focus
 
 <div align="center">
-  <a href="https://open.spotify.com/track/6E40mgJiCfxFF4JwNDj877">
+  <a href="https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg">
     <img src="assets/music_player.svg" width="580" alt="Retro Music Player" />
   </a>
   <p align="center"><i>Click player above to listen on Spotify</i></p>
