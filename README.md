@@ -31,7 +31,7 @@
 ### Contribution Timeline
 
 <div align="center">
-  <img src="assets/lifelike_snake.gif" width="100%" alt="Contribution Grid Snake" />
+  <img src="assets/lifelike_snake_v2.gif" width="100%" alt="Contribution Grid Snake" />
 </div>
 
 ---
