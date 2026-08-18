@@ -24,31 +24,21 @@
 ### Music & Focus
 
 <div align="center">
-  <img src="assets/music_player.svg" width="580" alt="Retro Music Player" />
+  <a href="https://open.spotify.com/track/6E40mgJiCfxFF4JwNDj877">
+    <img src="assets/music_player.svg" width="580" alt="Retro Music Player" />
+  </a>
+  <p align="center"><i>Click player above to listen on Spotify</i></p>
 </div>
 
 ---
 
-### About Me
+### Engineering Profile
 
-```c++
-#include <iostream>
-#include <vector>
+Electrical and Computer Engineering student at **Rutgers University – New Brunswick** (graduating May 2027) specializing in embedded firmware architecture, real-time control algorithms, and autonomous robotics.
 
-struct Engineer {
-    std::string name = "Justin Parra";
-    std::string university = "Rutgers University";
-    std::string major = "Electrical and Computer Engineering";
-    int graduation_year = 2027;
-    std::vector<std::string> focus_areas = {
-        "Autonomous Robotics", "Embedded Firmware", "Control Systems", "Digital Logic"
-    };
-};
-```
-
-- **Current Focus:** Lead Controls & Firmware Engineer for the **Autonomous Micromouse Robot** (ESP32-S3 + C++17 + Cascade PID + IMU/ToF).
-- **Core Interests:** Embedded Systems, RTOS, Register-Level Device Drivers, Sensor Fusion, Digital Logic & FPGA, Kinematics.
-- **Career Objectives:** Full-Time New Grad & Entry-Level Engineering Roles starting **May/June 2027** (*Embedded Software, Firmware, Robotics Controls, Hardware EE*).
+- **Lead Controls & Firmware Engineer — Autonomous Micromouse Robot:** Designing dual-loop cascade PID control systems integrating high-speed 9-DOF IMUs and Time-of-Flight laser distance sensors over register-level I2C in C++ (PlatformIO / ESP32-S3).
+- **Core Competencies:** Embedded Systems, Bare-Metal / RTOS Concepts, Modified Flood Fill & A* Pathfinding Algorithms, POSIX IPC Simulation (Qt6), Digital Logic Design, and Mathematical Telemetry Modeling.
+- **Target Opportunities:** Full-Time New Grad & Entry-Level Engineering Roles starting **May/June 2027** (*Embedded Software Engineer, Firmware Engineer, Robotics & Controls Engineer, Hardware / Digital Design Engineer*).
 
 ---
 
@@ -77,7 +67,7 @@ struct Engineer {
   <img src="https://img.shields.io/badge/Oscilloscopes_%26_Logic_Analyzers-6366F1?style=flat-square&logoColor=white" height="28"/>
 </p>
 
-#### Controls & Algorithms
+#### Controls, Algorithms & Simulation
 <p>
   <img src="https://img.shields.io/badge/Cascade_PID_Control-FF6B6B?style=flat-square&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Modified_Flood_Fill-4D96FF?style=flat-square&logoColor=white" height="28"/>
@@ -86,10 +76,10 @@ struct Engineer {
   <img src="https://img.shields.io/badge/NumPy_%26_Matplotlib-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
 </p>
 
-#### Tools & Linux
+#### Development Tools & Linux
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/WSL2_%2F_WSLg-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/GDB_Debugger-333333?style=flat-square&logo=gnu&logoColor=white" height="28"/>
@@ -100,18 +90,12 @@ struct Engineer {
 
 ---
 
-### Activity & Contribution Telemetry
+### Engineering Activity & Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justintime1888&theme=tokyo-night&area=true&hide_border=true&custom_title=Activity%20Graph" width="95%" alt="Activity Graph" />
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=justintime1888&theme=tokyo-night&hide_border=true" width="48%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justintime1888&layout=compact&theme=tokyo-night&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<!-- Real-time GitHub Activity Line Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justintime1888&theme=tokyo-night&area=true&hide_border=true&custom_title=Activity%20Telemetry%20Graph" width="95%" alt="Activity Telemetry Graph" />
 
 </div>
 
@@ -156,6 +140,14 @@ struct Engineer {
 
 ---
 
+### Contribution Timeline
+
+<div align="center">
+  <img src="assets/github-contribution-grid-snake.svg" width="700" alt="Contribution Grid Snake" />
+</div>
+
+---
+
 <div align="center">
 
 ### Contact & Connect
@@ -167,13 +159,5 @@ struct Engineer {
 <a href="mailto:jstnp18@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail" alt="Email" />
 </a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
