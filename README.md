@@ -1,27 +1,25 @@
 <div align="center">
 
-<!-- Animated Name Banner -->
+<!-- Low Poly Retro Class Geometric Header Banner -->
 <a href="https://github.com/justintime1888">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=36&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Justin+M.+Parra;Justin+M.+Parra" alt="Justin M. Parra" />
+  <img src="assets/header_lowpoly.svg" width="100%" alt="Justin M. Parra Low Poly Header" />
 </a>
 
-<p align="center">
-  <b>Electrical and Computer Engineering</b> • <b>Rutgers University</b> <i>(Class of May 2027)</i>
-</p>
+<br/><br/>
 
-<!-- Subtitle Role Animation -->
+<!-- Animated Role Subtitles in Retro Class Palette -->
 <a href="https://github.com/justintime1888">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Lead+Controls+%26+Firmware+Engineer+%40+Micromouse;Embedded+Systems+|+C%2B%2B17+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim;Digital+Logic+|+FPGA+|+Microcontroller+Architectures" alt="Roles Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=F08D00&center=true&vCenter=true&width=650&lines=Lead+Controls+%26+Firmware+Engineer+%40+Micromouse;Embedded+Systems+|+C%2B%2B17+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim;Digital+Logic+|+FPGA+|+Microcontroller+Architectures" alt="Roles Typing Banner" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/justin-parra-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-246869?style=for-the-badge&logo=linkedin&logoColor=E2D0B6" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:jstnp18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-993131?style=for-the-badge&logo=gmail&logoColor=E2D0B6" alt="Email" />
 </a>
 
 </div>
@@ -31,11 +29,7 @@
 ### Contribution Timeline
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Grid Snake" />
 </div>
 
 ---
@@ -44,7 +38,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg">
-    <img src="assets/music_player.svg" width="580" alt="Retro Music Player" />
+    <img src="assets/music_player.svg" width="580" alt="Low Poly Music Player" />
   </a>
   <p align="center"><i>Click player above to listen on Spotify</i></p>
 </div>
@@ -67,42 +61,42 @@ Electrical and Computer Engineering student at **Rutgers University – New Brun
 
 #### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/C-10304A?style=flat-square&logo=c&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/C%2B%2B17-246869?style=flat-square&logo=c%2B%2B&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Python-C65000?style=flat-square&logo=python&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Bash_Shell-10304A?style=flat-square&logo=gnu-bash&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/MATLAB-F08D00?style=flat-square&logo=mathworks&logoColor=10304A" height="28"/>
+  <img src="https://img.shields.io/badge/Assembly-993131?style=flat-square&logo=assemblyscript&logoColor=E2D0B6" height="28"/>
 </p>
 
 #### Embedded Systems & Hardware
 <p>
-  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/I2C_%2F_SPI_%2F_UART-00F0FF?style=flat-square&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Bosch_BNO055_IMU-10B981?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/ST_VL53L1X_ToF-3B82F6?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Oscilloscopes_%26_Logic_Analyzers-6366F1?style=flat-square&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/ESP32--S3-993131?style=flat-square&logo=espressif&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/PlatformIO-C65000?style=flat-square&logo=platformio&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Arduino-246869?style=flat-square&logo=arduino&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/I2C_%2F_SPI_%2F_UART-10304A?style=flat-square&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Bosch_BNO055_IMU-246869?style=flat-square&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/ST_VL53L1X_ToF-10304A?style=flat-square&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Oscilloscopes_%26_Logic_Analyzers-993131?style=flat-square&logoColor=E2D0B6" height="28"/>
 </p>
 
-#### Controls & Algorithms
+#### Controls, Algorithms & Simulation
 <p>
-  <img src="https://img.shields.io/badge/Cascade_PID_Control-FF6B6B?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Modified_Flood_Fill-4D96FF?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/A*_Search-6BCB77?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Qt6_MMS_Simulator-41CD52?style=flat-square&logo=qt&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/NumPy_%26_Matplotlib-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Cascade_PID_Control-993131?style=flat-square&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Modified_Flood_Fill-246869?style=flat-square&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/A*_Search-10304A?style=flat-square&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Qt6_MMS_Simulator-246869?style=flat-square&logo=qt&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/NumPy_%26_Matplotlib-C65000?style=flat-square&logo=numpy&logoColor=E2D0B6" height="28"/>
 </p>
 
 #### Development Tools & Linux
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/GDB_Debugger-333333?style=flat-square&logo=gnu&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-10304A?style=flat-square&logo=arch-linux&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/WSL2-246869?style=flat-square&logo=windows-terminal&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-C65000?style=flat-square&logo=git&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/CMake-10304A?style=flat-square&logo=cmake&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/GDB_Debugger-993131?style=flat-square&logo=gnu&logoColor=E2D0B6" height="28"/>
+  <img src="https://img.shields.io/badge/VS_Code-10304A?style=flat-square&logo=visual-studio-code&logoColor=E2D0B6" height="28"/>
 </p>
 
 </div>
@@ -161,11 +155,11 @@ Electrical and Computer Engineering student at **Rutgers University – New Brun
 ### Contact & Connect
 
 <a href="https://www.linkedin.com/in/justin-parra-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-246869?style=flat&logo=linkedin&logoColor=E2D0B6" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:jstnp18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-993131?style=flat&logo=gmail&logoColor=E2D0B6" alt="Email" />
 </a>
 
 </div>

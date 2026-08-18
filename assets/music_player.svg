@@ -1,18 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" fill="none">
   <defs>
-    <linearGradient id="bg_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#121216"/>
-      <stop offset="100%" stop-color="#181820"/>
-    </linearGradient>
-    <linearGradient id="bar_grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1DB954"/>
-      <stop offset="100%" stop-color="#00f0ff"/>
-    </linearGradient>
     <style>
-      .title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif; font-size: 15px; font-weight: 600; fill: #ffffff; }
-      .artist { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif; font-size: 13px; font-weight: 400; fill: #86868b; }
-      .time { font-family: 'SF Mono', monospace; font-size: 11px; fill: #86868b; }
-      .badge { font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 700; fill: #1DB954; letter-spacing: 0.05em; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif; font-size: 15px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.02em; }
+      .artist { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif; font-size: 13px; font-weight: 500; fill: #F08D00; }
+      .time { font-family: 'SF Mono', monospace; font-size: 11px; fill: #E2D0B6; opacity: 0.8; }
+      .badge { font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 700; fill: #E2D0B6; letter-spacing: 0.05em; }
       
       @keyframes eq1 { 0%, 100% { height: 6px; } 50% { height: 24px; } }
       @keyframes eq2 { 0%, 100% { height: 22px; } 50% { height: 8px; } }
@@ -28,41 +20,68 @@
     </style>
   </defs>
 
-  <!-- Background Card -->
-  <rect width="600" height="140" rx="14" fill="url(#bg_grad)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Low Poly Geometric Facets in Retro Class Colors -->
+  <g id="player-poly-bg">
+    <polygon points="0,0 120,0 60,60" fill="#10304A"/>
+    <polygon points="120,0 240,0 180,50" fill="#184369"/>
+    <polygon points="240,0 360,0 300,55" fill="#246869"/>
+    <polygon points="360,0 480,0 420,45" fill="#993131"/>
+    <polygon points="480,0 600,0 540,55" fill="#C65000"/>
+
+    <polygon points="0,0 60,60 0,140" fill="#0D263B"/>
+    <polygon points="60,60 120,0 180,50" fill="#143B5C"/>
+    <polygon points="60,60 180,50 120,140" fill="#1B4D78"/>
+    <polygon points="180,50 240,0 300,55" fill="#205E5F"/>
+    <polygon points="180,50 300,55 240,140" fill="#246869"/>
+    <polygon points="300,55 360,0 420,45" fill="#802929"/>
+    <polygon points="300,55 420,45 360,140" fill="#993131"/>
+    <polygon points="420,45 480,0 540,55" fill="#B34700"/>
+    <polygon points="420,45 540,55 480,140" fill="#C65000"/>
+    <polygon points="540,55 600,0 600,140" fill="#D95900"/>
+
+    <polygon points="0,140 60,60 120,140" fill="#10304A"/>
+    <polygon points="120,140 180,50 240,140" fill="#184369"/>
+    <polygon points="240,140 300,55 360,140" fill="#246869"/>
+    <polygon points="360,140 420,45 480,140" fill="#993131"/>
+    <polygon points="480,140 540,55 600,140" fill="#F08D00"/>
+  </g>
+
+  <!-- Dark Shading Overlay for Contrast -->
+  <rect width="600" height="140" rx="12" fill="rgba(11, 25, 38, 0.72)"/>
+  <rect width="600" height="140" rx="12" stroke="#E2D0B6" stroke-width="1.2" stroke-opacity="0.3"/>
 
   <!-- Album Artwork / Cassette Box -->
-  <rect x="20" y="20" width="100" height="100" rx="10" fill="#18181c" stroke="rgba(255,255,255,0.06)"/>
+  <rect x="20" y="20" width="100" height="100" rx="8" fill="#10304A" stroke="#246869" stroke-width="1"/>
   
   <!-- Vinyl / Tape Icon in Art -->
-  <circle cx="70" cy="70" r="32" fill="#121216" stroke="#1DB954" stroke-width="2"/>
-  <circle cx="70" cy="70" r="20" fill="#18181c" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-  <circle cx="70" cy="70" r="8" fill="#1DB954"/>
+  <circle cx="70" cy="70" r="32" fill="#0D263B" stroke="#F08D00" stroke-width="2"/>
+  <circle cx="70" cy="70" r="20" fill="#10304A" stroke="rgba(226, 208, 182, 0.2)" stroke-width="1"/>
+  <circle cx="70" cy="70" r="8" fill="#E2D0B6"/>
 
   <!-- Live Status Badge -->
-  <rect x="140" y="22" width="128" height="20" rx="6" fill="rgba(29,185,84,0.12)" stroke="rgba(29,185,84,0.3)" stroke-width="1"/>
-  <circle cx="152" cy="32" r="3" fill="#1DB954"/>
+  <rect x="140" y="22" width="128" height="20" rx="4" fill="#993131" stroke="#C65000" stroke-width="1"/>
+  <circle cx="152" cy="32" r="3" fill="#E2D0B6"/>
   <text x="162" y="36" class="badge">TOP SPOTIFY TRACK</text>
 
   <!-- Track Details -->
   <text x="140" y="62" class="title">Malcolm In The Middle</text>
-  <text x="140" y="80" class="artist">Malcolm Todd — #1 Most Streamed Track</text>
+  <text x="140" y="80" class="artist">Malcolm Todd — Heavy Rotation</text>
 
   <!-- Progress Bar -->
-  <rect x="140" y="98" width="430" height="4" rx="2" fill="rgba(255,255,255,0.1)"/>
-  <rect x="140" y="98" width="310" height="4" rx="2" fill="url(#bar_grad)"/>
-  <circle cx="450" cy="100" r="4" fill="#1DB954"/>
+  <rect x="140" y="98" width="430" height="4" rx="2" fill="rgba(226, 208, 182, 0.15)"/>
+  <rect x="140" y="98" width="310" height="4" rx="2" fill="#F08D00"/>
+  <circle cx="450" cy="100" r="4" fill="#E2D0B6"/>
 
   <!-- Time Labels -->
   <text x="140" y="118" class="time">02:14</text>
   <text x="540" y="118" class="time">02:58</text>
 
-  <!-- Animated Equalizer Bars -->
+  <!-- Animated Equalizer Bars in Retro Colors -->
   <g transform="translate(530, 48)">
-    <rect class="bar1" x="0" y="0" width="4" height="18" rx="2" fill="#1DB954" transform="scale(1, -1)"/>
-    <rect class="bar2" x="7" y="0" width="4" height="22" rx="2" fill="#00f0ff" transform="scale(1, -1)"/>
-    <rect class="bar3" x="14" y="0" width="4" height="14" rx="2" fill="#1DB954" transform="scale(1, -1)"/>
-    <rect class="bar4" x="21" y="0" width="4" height="26" rx="2" fill="#00f0ff" transform="scale(1, -1)"/>
-    <rect class="bar5" x="28" y="0" width="4" height="16" rx="2" fill="#1DB954" transform="scale(1, -1)"/>
+    <rect class="bar1" x="0" y="0" width="4" height="18" rx="1.5" fill="#E2D0B6" transform="scale(1, -1)"/>
+    <rect class="bar2" x="7" y="0" width="4" height="22" rx="1.5" fill="#F08D00" transform="scale(1, -1)"/>
+    <rect class="bar3" x="14" y="0" width="4" height="14" rx="1.5" fill="#C65000" transform="scale(1, -1)"/>
+    <rect class="bar4" x="21" y="0" width="4" height="26" rx="1.5" fill="#993131" transform="scale(1, -1)"/>
+    <rect class="bar5" x="28" y="0" width="4" height="16" rx="1.5" fill="#246869" transform="scale(1, -1)"/>
   </g>
 </svg>
