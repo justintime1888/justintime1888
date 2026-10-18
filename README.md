@@ -1,173 +1,32 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Justin Parra · Embedded systems, PCBs and robotics · Rutgers ECE" width="100%">
+</picture>
 
-<!-- Low Poly Retro Class Geometric Header Banner (Apple Garamond Typography) -->
-<a href="https://github.com/justintime1888">
-  <img src="assets/header_lowpoly.svg" width="100%" alt="Justin M. Parra Low Poly Header" />
-</a>
+I design the boards, write the firmware and tune the robots. I'm the president of **Rutgers Micromouse**, where our robot **Antigravitieee** took **1st place at the 2026 IEEE Montclair Micromouse Competition**. B.S. Electrical & Computer Engineering, Rutgers–New Brunswick, December 2027.
 
-<br/><br/>
+Open to **2027 internships and co-ops** and **new-grad roles** in embedded, hardware and robotics.
 
-<!-- Prominent Headline Apple Garamond Animated Typing Banner -->
-<h1>
-  <a href="https://github.com/justintime1888">
-    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=700&size=40&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=Lead+Controls+%26+Firmware+Engineer+%40+Micromouse;Embedded+Systems+|+C%2B%2B+|+RTOS+|+Robotics;Cascade+PID+Control+|+Sensor+Fusion+|+Qt6+Sim;Digital+Logic+|+FPGA+|+Microcontroller+Architectures" alt="Roles Headline Banner" width="100%" />
-  </a>
-</h1>
+[![Website](https://img.shields.io/badge/justinparra.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://justinparra.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-parra-/)
+[![Email](https://img.shields.io/badge/jstnp18@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jstnp18@gmail.com)
+[![Résumé](https://img.shields.io/badge/Résumé-000000?style=flat-square&logo=readthedocs&logoColor=white)](https://justinparra.vercel.app/JustinMParra-1.pdf)
 
-<br/><br/>
+## Work
 
-<a href="https://www.linkedin.com/in/justin-parra-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:jstnp18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+| | |
+|---|---|
+| **[Antigravitieee](https://github.com/RutgersMicromouse/Micromouse-2027)**<br>Autonomous maze-solving micromouse. ESP32-S3, FreeRTOS, flood fill and Dijkstra, 500 Hz motion loop. 1st place, IEEE Montclair 2026. | **[justinparra.vercel.app](https://justinparra.vercel.app)**<br>Portfolio with a 3D robot you can take apart and read the firmware for, part by part. Three.js, Vercel. |
+| **[Weave](https://github.com/justintime1888/weave)**<br>Contributor: compiles SPICE netlists into laid-out LTspice schematics. TypeScript, ElkJS. | **[Wafer yield simulator](https://github.com/justintime1888/wafer-yield-simulator)**<br>Poisson and negative-binomial defect models for die yield and cost per good die. Python, NumPy. |
+| **[Adaptive Resume AI](https://github.com/justintime1888/adaptive-resume-ai)**<br>Tailors LaTeX résumés to a job and checks every claim against a profile. Python, LaTeX. | **[Demo input overlay](https://github.com/justintime1888/demo-input-overlay)**<br>Shows keystrokes and clicks on screen for live demos. Windows and macOS. |
 
-</div>
+## Toolbox
 
----
+**Firmware** C, C++, FreeRTOS, ESP32-S3, STM32, PlatformIO · **Boards** KiCad, Altium, EasyEDA, LTspice · **Control** PID and cascade PID, flood fill, A\*, Dijkstra · **Software** Python, TypeScript, MATLAB, Verilog · **Bench** oscilloscopes, logic analyzers, SMD rework
 
-### Contribution Timeline
+## Activity
 
-<div align="center">
-  <img src="assets/lifelike_snake_v3.gif" width="100%" alt="Contribution Grid Snake" />
-</div>
-
----
-
-### Music & Focus
-
-<div align="center">
-  <a href="https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg">
-    <img src="assets/music_player.svg" width="580" alt="Low Poly Music Player" />
-  </a>
-  <p align="center"><i>Click player above to listen to today's top track on Spotify</i></p>
-</div>
-
----
-
-### Engineering Profile
-
-Electrical and Computer Engineering student at **Rutgers University – New Brunswick** (graduating May 2027) specializing in embedded firmware architecture, real-time control algorithms, and autonomous robotics.
-
-- **Lead Controls & Firmware Engineer — Autonomous Micromouse Robot:** Designing dual-loop cascade PID control systems integrating high-speed 9-DOF IMUs and Time-of-Flight laser distance sensors over register-level I2C in C++ (PlatformIO / ESP32-S3).
-- **Core Competencies:** Embedded Systems, Bare-Metal / RTOS Concepts, Modified Flood Fill & A* Pathfinding Algorithms, POSIX IPC Simulation (Qt6), Digital Logic Design, and Mathematical Telemetry Modeling.
-- **Target Opportunities:** Full-Time New Grad & Entry-Level Engineering Roles starting **May/June 2027** (*Embedded Software Engineer, Firmware Engineer, Robotics & Controls Engineer, Hardware / Digital Design Engineer*).
-
----
-
-### Technical Skills
-
-<div align="center">
-
-#### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" height="28"/>
-</p>
-
-#### Embedded Systems & Hardware
-<p>
-  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/I2C_%2F_SPI_%2F_UART-00F0FF?style=flat-square&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Bosch_BNO055_IMU-10B981?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/ST_VL53L1X_ToF-3B82F6?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Oscilloscopes_%26_Logic_Analyzers-6366F1?style=flat-square&logoColor=white" height="28"/>
-</p>
-
-#### Controls, Algorithms & Simulation
-<p>
-  <img src="https://img.shields.io/badge/Cascade_PID_Control-FF6B6B?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Modified_Flood_Fill-4D96FF?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/A*_Search-6BCB77?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Qt6_MMS_Simulator-41CD52?style=flat-square&logo=qt&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/NumPy_%26_Matplotlib-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
-</p>
-
-#### Development Tools & Linux
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/GDB_Debugger-333333?style=flat-square&logo=gnu&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="28"/>
-</p>
-
-</div>
-
----
-
-### Activity & Contribution Telemetry
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justintime1888&theme=tokyo-night&area=true&hide_border=true&custom_title=Activity%20Telemetry%20Graph" width="95%" alt="Activity Telemetry Graph" />
-</div>
-
----
-
-### Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Autonomous Micromouse Robot</h3>
-      <p align="center">
-        <b>Lead Controls & Firmware Engineer</b><br/>
-        Autonomous maze-solving robotics platform programmed in C++ on an ESP32-S3 microcontroller.
-      </p>
-      <ul>
-        <li><b>Dual-Loop Cascade PID:</b> 100 Hz IMU heading + ToF wall centering.</li>
-        <li><b>Modified Flood Fill & A*:</b> Memory-efficient maze routing and dynamic backtracking.</li>
-        <li><b>POSIX Simulation:</b> Qt6 MMS simulator pipeline in Arch Linux.</li>
-      </ul>
-      <p align="center">
-        <code>C++</code> • <code>ESP32-S3</code> • <code>PlatformIO</code> • <code>PID</code> • <code>Qt6</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Robotics Telemetry & Kinematics Simulator</h3>
-      <p align="center">
-        <b>Mathematical Modeling & Serial Telemetry</b><br/>
-        Real-time telemetry visualizer capturing sensor dynamics and differential drive kinematics.
-      </p>
-      <ul>
-        <li><b>100 Hz Data Logging:</b> Captures PWM, angular drift, and laser raycasts.</li>
-        <li><b>Inertia Filtering:</b> Simulates low-pass filters and motor response curves.</li>
-        <li><b>Trajectory Benchmarking:</b> Calculates turn profiles for race speedruns.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>SciPy</code> • <code>PySerial</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### Contact & Connect
-
-<a href="https://www.linkedin.com/in/justin-parra-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:jstnp18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail" alt="Email" />
-</a>
-
-<br/><br/>
-
-<p align="center">
-  <i>"Here's to the crazy ones. The misfits. The rebels. The troublemakers." — Apple Think Different</i>
-</p>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/justintime1888/justintime1888/output/github-contribution-grid-snake.svg" alt="Contribution grid with a snake eating the commits" width="100%">
+</picture>
