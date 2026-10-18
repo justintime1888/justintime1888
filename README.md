@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/justintime1888/justintime1888/main/assets/header-light.svg" alt="Justin Parra · Embedded systems, PCBs and robotics · Rutgers ECE" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justintime1888/justintime1888/main/assets/header-dark.svg?v=2">
+  <img src="https://raw.githubusercontent.com/justintime1888/justintime1888/main/assets/header-light.svg?v=2" alt="Justin Parra · Embedded systems, PCBs and robotics · Rutgers ECE" width="100%">
 </picture>
 
 I design the boards, write the firmware and tune the robots. I'm the president of **Rutgers Micromouse**, where our robot **Antigravitieee** took **1st place at the 2026 IEEE Montclair Micromouse Competition**. B.S. Electrical & Computer Engineering, Rutgers–New Brunswick, December 2027.
